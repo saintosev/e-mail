@@ -149,6 +149,7 @@ p {
     align-items: center;
     width: 150px;
     height: 191px;
+    cursor: pointer;
 }
 
 .product_img {
